@@ -30,9 +30,9 @@ python-crash-course-notas/
 | Cap 01 | Introducción / Configuración del entorno | ✅ Completo |
 | Cap 02 | Variables y tipos de datos simples | ✅ Completo |
 | Cap 03 | Listas | ✅ Completo |
-| Cap 04 | Trabajando con listas | 🔄 En progreso |
-| Cap 05 | Sentencias `if` | ⏳ Pendiente |
-| Cap 06 | Diccionarios | ⏳ Pendiente |
+| Cap 04 | Trabajando con listas | ✅ Completo |
+| Cap 05 | Sentencias `if` | ✅ Completo |
+| Cap 06 | Diccionarios | 🔄 En progreso |
 | Cap 07 | Entrada del usuario y bucles `while` | ⏳ Pendiente |
 | Cap 08 | Funciones | ⏳ Pendiente |
 | Cap 09 | Clases | ⏳ Pendiente |
