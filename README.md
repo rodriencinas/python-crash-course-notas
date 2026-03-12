@@ -34,8 +34,8 @@ python-crash-course-notas/
 | Cap 05 | Sentencias `if` | ✅ Completo |
 | Cap 06 | Diccionarios | ✅ Completo |
 | Cap 07 | Entrada del usuario y bucles `while` | ✅ Completo |
-| Cap 08 | Funciones | 🔄 En progreso |
-| Cap 09 | Clases | ⏳ Pendiente |
+| Cap 08 | Funciones | ✅ Completo |
+| Cap 09 | Clases | 🔄 En progreso |
 | Cap 10 | Archivos y excepciones | ⏳ Pendiente |
 | Cap 11 | Testing | ⏳ Pendiente |
 
